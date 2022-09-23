@@ -36,6 +36,13 @@ body {
     align-items: center;
     
 }
+.header ul .here {
+    font-weight: 1000;
+}
+a {
+    text-decoration: none;
+    color: #e3b062;
+}
 /* li {
     border: solid 3px white;
 }
